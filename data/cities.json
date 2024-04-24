@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "a268",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-12T22:22:59.777Z",
+      "notes": "asd",
+      "position": {
+        "lat": "39.98948414356533",
+        "lng": "-0.04463195800781251"
+      }
+    },
+    {
+      "id": "7b5c",
+      "cityName": "Cernadilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-12T22:23:09.536Z",
+      "notes": "asd",
+      "position": {
+        "lat": "42.032974332441405",
+        "lng": "-6.416015625000001"
+      }
+    }
+  ]
+}
